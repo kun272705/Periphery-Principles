@@ -1,0 +1,4 @@
+
+Event Loop
+
+使用 Nonblocking IO API 時，一般需要在一個 loop 中循環調用 select 系統調用，這個 loop 被稱爲 Event Loop。

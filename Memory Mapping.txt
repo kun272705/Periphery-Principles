@@ -1,0 +1,4 @@
+
+Memory Mapping
+
+Memory Mapping 是指將一個虛擬内存區域關聯到一個磁盤文件。

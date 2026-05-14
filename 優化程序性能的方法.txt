@@ -1,0 +1,8 @@
+
+優化程序性能的方法
+
+ALU 和 register file 訪問很快，main memory 訪問很慢，程序把大部分時間花在了 main memory 訪問上面。
+
+爲了優化程序性能，可以消除不必要的 main memory 訪問、合理地使用 register file 訪問代替 main memory 訪問。
+
+具體做法有：選擇合適的數據結構和算法，消除遞歸調用，使用寄存器存儲中間結果。
