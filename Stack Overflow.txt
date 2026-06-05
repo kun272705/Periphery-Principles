@@ -1,4 +1,3 @@
-
 Stack Overflow
 
 每次函數調用都會在 Stack 中產生一個新的棧幀。
