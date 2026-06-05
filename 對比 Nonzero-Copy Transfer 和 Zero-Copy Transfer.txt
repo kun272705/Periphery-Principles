@@ -1,4 +1,3 @@
-
 對比 Nonzero-Copy Transfer 和 Zero-Copy Transfer
 
 考慮把磁盤中的一個文件通過網卡發送出去。
