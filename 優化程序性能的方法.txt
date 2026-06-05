@@ -1,4 +1,3 @@
-
 優化程序性能的方法
 
 ALU 和 register file 訪問很快，main memory 訪問很慢，程序把大部分時間花在了 main memory 訪問上面。
