@@ -1,4 +1,3 @@
-
 Segment Fault
 
 當程序訪問一個它沒有權限訪問的内存地址時會發生 Segmentation Fault。
