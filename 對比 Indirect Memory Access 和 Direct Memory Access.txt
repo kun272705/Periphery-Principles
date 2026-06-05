@@ -1,4 +1,3 @@
-
 對比 Indirect Memory Access 和 Direct Memory Access
 
 考慮把位於磁盤緩衝區中的一份數據拷貝到内核磁盤緩衝區中。
